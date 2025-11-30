@@ -52,8 +52,8 @@ conda activate flood-analysis
 
 ## Members
 
-David Raniel Cauba
-Kendrick Beau Calvo
-Dodge Lapis
-Nathanael Martinez
-Hannah Tuazon
+- David Raniel Cauba
+- Kendrick Beau Calvo
+- Dodge Lapis
+- Nathanael Martinez
+- Hannah Tuazon
