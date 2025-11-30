@@ -1,0 +1,5 @@
+# Do not add Datasets folder
+DATASETS/
+
+# Do not add Figures
+FIGURES/
