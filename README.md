@@ -33,9 +33,6 @@ You can access and download all datasets using this link ([Dataset](https://driv
 ---
 
 ## 🚀 Getting Started
-### Prerequisites
-- Python 3.9+  
-- Conda or virtualenv for environment management  
 
 ### Installation
 ```bash
@@ -44,13 +41,15 @@ git clone https://github.com/Gurlly/case_study_flood.git
 cd case-study-flood
 
 # Create environment
-conda env create -f environment.yml
-conda activate flood-analysis
+python -m venv venv     # Optional
+venv\Scripts\activate   # Optional: If you created a virtual environment
+
+pip install -r requirements.txt     # Install packages in requirements.txt
 ```
 
 ----
 
-## Members
+## 👨‍👩‍👧‍👦 Members
 
 - David Raniel Cauba
 - Kendrick Beau Calvo
